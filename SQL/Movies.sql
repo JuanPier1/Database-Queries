@@ -1,7 +1,7 @@
 /* Práctica de SQL con Películas */
 create database movies;
 
-use database movies;
+use movies;
 
 create table directores(
 idDirector int primary key auto_increment,
